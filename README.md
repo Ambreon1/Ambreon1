@@ -6,5 +6,3 @@
 My name is Ambreon, you can just call me Slava. I've been programming for two years now, I started with Construct 2, C3 and a Linux distribution and now I'm making (almost) KvasOS myself. 
 It's not easy, but if you can google, know English and have documentation for something, you can achieve anything.
 It's better not to trust everyone on YouTube, they can fool you and everything will go wrong, Egor Letov will be upset....
-
-Translated with DeepL.com (free version)
